@@ -1,0 +1,6 @@
+@RoutingSlipLostVariable_HostAddress = http://localhost:5173
+
+GET {{RoutingSlipLostVariable_HostAddress}}/ClaimReward/
+Accept: application/json
+
+###
