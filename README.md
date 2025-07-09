@@ -6,6 +6,7 @@ more than 1 retry is configured using UseDelayedRedelivery.
 ## Steps to reproduce
 
 - Clone the repository.
+- Open solution RoutingSlipLostVariable.sln
 - Set TestDb connection string in appsettings.json (SqlServer is used).
 
 ## Successful scenario
